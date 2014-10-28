@@ -243,23 +243,85 @@ footer {
   top: 187px;
   right: 265px;
 }
-#subtitulo1 {
+#dato4 {
   position: absolute;
-  font-family: Univers-LT-67-Condensed-Bold, Arial;
-  font-size: 14px;
-  color: #131366;
-  top: 283px;
-  right: 300px;
+  font-family: Univers_lt_std_65_bold, Arial;
+  font-size: 11px;
+  color: #515174;
+  top: 105px;
+  right: 253px;
 }
-#subtitulo2 {
+#dato5 {
+  position: absolute;
+  font-family: Univers_lt_std_57_condensed, Arial;
+  font-size: 11px;
+  color: #515174;
+  top: 54px;
+  right: 147px;
+}
+#dato6 {
   position: absolute;
   font-family: Univers-LT-67-Condensed-Bold, Arial;
-  font-size: 12px;
+  font-size: 13px;
   text-align: center;
+  color: #0e0e61;
+  width: 228px;
+  top: 66px;
+  left: -151px;
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+#dato7 {
+  position: absolute;
+  font-family: Univers-LT-67-Condensed-Bold, Arial;
+  font-size: 13px;
+  text-align: center;
+  color: #0e0e61;
+  width: 251px;
+  top: 76px;
+  right: -157px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+#lineaConclusion {
+  position: absolute;
+  background: url("../img/lineaConclusion.png") no-repeat;
+  height: 37px;
+  width: 519px;
+  padding: 10px 0px 0px 20px;
+  top: 225px;
+  right: -68px;
+}
+#lineaConclusion span {
+  font-family: Univers-LT-45-Light, Arial;
+  font-size: 8px;
   color: #131366;
+}
+#lineaConclusion span sup {
+  font-size: 6px;
+}
+#parrafo4 {
+  position: absolute;
+  background: url("../img/cuadro1.png") no-repeat;
+  background-size: 100% 100%;
+  height: 50px;
+  width: 883px;
+  padding: 10px 0px 0px 20px;
+  top: 305px;
+  right: -157px;
+}
+#parrafo4 span {
+  font-family: Univers-LT-45-Light, Arial;
+  font-size: 14px;
+  text-align: center;
+  color: #31317b;
   width: 100px;
-  top: 284px;
-  right: 150px;
 }
 #logoPfizer {
   position: absolute;
@@ -299,8 +361,8 @@ footer {
   src: url("../fonts/Univers-LT-47-Condensed-Light.ttf");
   font-family: UniversLT-Std-47-Light-Condensed-Oblique;
   src: url("../fonts/UniversLT-Std-47-Light-Condensed-Oblique.ttf");
-  font-family: Univers-LT-65-Bold;
-  src: url("../fonts/Univers-LT-65-Bold.ttf");
+  font-family: Univers_lt_std_65_bold;
+  src: url("../fonts/Univers_lt_std_65_bold.otf");
   font-family: Univers-LT-67-Condensed-Bold;
   src: url("../fonts/Univers-LT-67-Condensed-Bold.otf");
   font-family: Univers_lt_std_57_condensed;
