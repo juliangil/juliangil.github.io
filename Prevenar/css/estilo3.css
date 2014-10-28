@@ -1,0 +1,261 @@
+body {
+  margin: 0;
+  width: 1024px;
+  height: 768px;
+}
+header {
+  background: url("../img/frameSup	.png") no-repeat;
+  width: 1024px;
+  height: 182px;
+  top: 0;
+}
+section,
+footer {
+  position: relative;
+}
+#logoOms {
+  position: absolute;
+  top: 0;
+  left: 30px;
+}
+#parrafo1 {
+  position: absolute;
+  background: url("../img/fondoRayas.png") no-repeat;
+  background-size: 100% 100%;
+  width: 691px;
+  height: 90px;
+  top: -5px;
+  left: 173px;
+}
+#parrafo1 p {
+  position: relative;
+  font-family: Univers-LT-65-Bold, Arial;
+  font-size: 17px;
+  text-align: center;
+  color: #47479a;
+  left: 14px;
+  top: 19px;
+  width: 665px;
+}
+#parrafo1 p sup {
+  font-size: 9px;
+}
+#parrafo2 p {
+  position: relative;
+  font-family: Univers LT Std, Arial;
+  font-size: 14px;
+  text-align: center;
+  color: #ff1493;
+  left: 197px;
+  top: 86px;
+  width: 650px;
+}
+#parrafo2 p sup {
+  font-size: 9px;
+}
+#parrafo3 p {
+  position: relative;
+  font-family: UUniversLT-Std-47-Light-Condensed-Oblique, Arial;
+  font-size: 11px;
+  text-align: center;
+  color: #ff1493;
+  left: 189px;
+  top: 74px;
+  width: 650px;
+}
+#parrafo3 p sup {
+  font-size: 9px;
+}
+#grafica1 {
+  position: absolute;
+  width: 390px;
+  height: 279px;
+  background: url("../img/grafica2.png") no-repeat;
+  top: 153px;
+  left: 590px;
+}
+#numeros {
+  position: absolute;
+  top: 4px;
+  left: -41px;
+}
+#numeros ul li {
+  list-style-type: none;
+  position: absolute;
+  max-height: 200px;
+}
+#numeros ul li span {
+  font-family: Univers_lt_std_57_condensed;
+  color: #131366;
+  font-size: 12.5px;
+  text-align: right;
+}
+#numeros ul li:nth-child(1) {
+  top: -4px;
+  left: 1px;
+}
+#numeros ul li:nth-child(2) {
+  top: 32px;
+  left: 1px;
+}
+#numeros ul li:nth-child(3) {
+  top: 71px;
+  left: 1px;
+}
+#numeros ul li:nth-child(4) {
+  top: 110px;
+  left: 1px;
+}
+#numeros ul li:nth-child(5) {
+  top: 148px;
+  left: 1px;
+}
+#numeros ul li:nth-child(6) {
+  top: 186px;
+  left: 1px;
+}
+#numeros ul li:nth-child(7) {
+  top: 224px;
+  left: 7px;
+}
+#numeros ul li:nth-child(8) {
+  top: 263px;
+  left: 34px;
+}
+#mayor {
+  position: absolute;
+  font-size: 47px;
+  color: #131366;
+  top: 130px;
+  right: 80px;
+}
+#numero53 {
+  position: absolute;
+  font-family: Univers-LT-67-Condensed-Bold, Arial;
+  font-size: 49px;
+  color: #bf0054;
+  top: 130px;
+  right: 0px;
+}
+#numeroSuperior {
+  position: absolute;
+  font-family: Univers_lt_std_57_condensed, Arial;
+  font-size: 14px;
+  color: #131366;
+  top: 25px;
+  right: 182px;
+}
+#numeroInferior {
+  position: absolute;
+  font-family: Univers_lt_std_57_condensed, Arial;
+  font-size: 14px;
+  color: #131366;
+  top: 253px;
+  right: 295px;
+}
+#subtitulo1 {
+  position: absolute;
+  font-family: Univers-LT-67-Condensed-Bold, Arial;
+  font-size: 14px;
+  color: #131366;
+  top: 283px;
+  right: 300px;
+}
+#subtitulo2 {
+  position: absolute;
+  font-family: Univers-LT-67-Condensed-Bold, Arial;
+  font-size: 12px;
+  text-align: center;
+  color: #131366;
+  width: 100px;
+  top: 284px;
+  right: 150px;
+}
+#logoPfizer {
+  position: absolute;
+  top: 515px;
+  left: 65px;
+}
+#infSeguridad {
+  position: absolute;
+  top: 515px;
+  left: 205px;
+}
+#minificha {
+  position: absolute;
+  top: 515px;
+  left: 440px;
+}
+#referencias {
+  position: absolute;
+  top: 515px;
+  left: 570px;
+}
+#logoPrevenar {
+  position: absolute;
+  top: 515px;
+  right: 85px;
+}
+@font-face {
+  font-family: UniversLTStd-Bold;
+  src: url("../fonts/UniversLTStd-Bold.otf") format('opentype');
+  font-family: UniversLTStd-BoldCnObl;
+  src: url("../fonts/UniversLTStd-BoldCnObl.otf") format('opentype');
+  font-family: Univers-LT-45-Light;
+  src: url("../fonts/Univers-LT-45-Light.ttf") format('truetype’);');
+  font-family: Univers-LT-Std-45-Light;
+  src: url("../fonts/Univers-LT-Std-45-Light.ttf");
+  font-family: Univers-LT-47-Condensed-Light;
+  src: url("../fonts/Univers-LT-47-Condensed-Light.ttf");
+  font-family: UniversLT-Std-47-Light-Condensed-Oblique;
+  src: url("../fonts/UniversLT-Std-47-Light-Condensed-Oblique.ttf");
+  font-family: Univers-LT-65-Bold;
+  src: url("../fonts/Univers-LT-65-Bold.ttf");
+  font-family: Univers-LT-67-Condensed-Bold;
+  src: url("../fonts/Univers-LT-67-Condensed-Bold.otf");
+  font-family: Univers_lt_std_57_condensed;
+  src: url("../fonts/univers_lt_std_57_condensed.otf");
+}
+.fuenteLetra1 {
+  position: absolute;
+  font-family: UniversLTStd-Bold, Arial;
+  top: 0px;
+  left: 70px;
+  font-size: 30px;
+  color: #ff1493;
+}
+.fuenteLetra2 {
+  position: absolute;
+  font-family: UniversLTStd-Bold, Arial;
+  top: 40px;
+  left: 70px;
+  font-size: 20px;
+  width: 540px;
+  color: #fff;
+}
+.fuenteLetra3 {
+  position: absolute;
+  font-family: UniversLTStd-Bold, Arial;
+  top: 110px;
+  left: 70px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 900px;
+  color: #fff;
+}
+.fuenteLetra3 sup {
+  font-size: 11px;
+}
+.fuenteLetra4 {
+  font-family: UniversLTStd-BoldCnObl, Arial;
+  font-size: 12px;
+  color: #131366;
+}
+.fuenteLetra5 {
+  position: absolute;
+  font-family: Univers-LT-45-Light, Arial;
+  top: 566px;
+  left: 80px;
+  font-size: 7px;
+  color: #131366;
+}

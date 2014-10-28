@@ -1,0 +1,98 @@
+body {
+  background: url("../img/fondo.png") no-repeat;
+  margin: 0;
+  width: 1024px;
+  height: 768px;
+}
+header {
+  background: url("../img/frameSup	.png") no-repeat;
+  width: 1024px;
+  height: 182px;
+  top: 0;
+}
+section,
+footer {
+  position: relative;
+}
+#logoOms {
+  position: absolute;
+  top: 0;
+  left: 30px;
+}
+#foto1 {
+  position: absolute;
+  top: 0;
+  left: 265px;
+}
+#logoPfizer {
+  position: absolute;
+  top: 515px;
+  left: 65px;
+}
+#logoPrevenar {
+  position: absolute;
+  top: 515px;
+  right: 55px;
+}
+@font-face {
+  font-family: UniversLTStd-Bold;
+  src: url("../fonts/UniversLTStd-Bold.otf") format('opentype');
+  font-family: UniversLTStd-BoldCnObl;
+  src: url("../fonts/UniversLTStd-BoldCnObl.otf") format('opentype');
+  font-family: Univers-LT-45-Light;
+  src: url("../fonts/Univers-LT-45-Light.ttf") format('truetype’);');
+  font-family: Univers-LT-47-Condensed-Light;
+  src: url("../fonts/Univers-LT-47-Condensed-Light.ttf");
+}
+.fuenteLetra1 {
+  position: absolute;
+  font-family: UniversLTStd-Bold, Arial;
+  top: 0px;
+  left: 70px;
+  font-size: 30px;
+  color: #ff1493;
+}
+.fuenteLetra2 {
+  position: absolute;
+  font-family: UniversLTStd-Bold, Arial;
+  top: 40px;
+  left: 70px;
+  font-size: 20px;
+  color: #fff;
+}
+.fuenteLetra3 {
+  position: absolute;
+  font-family: UniversLTStd-Bold, Arial;
+  top: 105px;
+  left: 70px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 900px;
+  color: #fff;
+}
+.fuenteLetra4 {
+  position: absolute;
+  font-family: Univers-LT-47-Condensed-Light;
+  top: 395px;
+  left: 54px;
+  font-size: 15px;
+  width: 910px;
+  color: #131366;
+}
+.fuenteLetra5 {
+  position: absolute;
+  font-family: Univers-LT-47-Condensed-Light;
+  top: 438px;
+  left: 54px;
+  font-size: 15px;
+  width: 910px;
+  color: #131366;
+}
+.fuenteLetra6 {
+  position: absolute;
+  font-family: Univers-LT-45-Light;
+  top: 566px;
+  left: 80px;
+  font-size: 7px;
+  color: #131366;
+}
