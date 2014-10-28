@@ -26,12 +26,12 @@ footer {
 }
 #logoPfizer {
   position: absolute;
-  top: 515px;
+  top: 509px;
   left: 65px;
 }
 #logoPrevenar {
   position: absolute;
-  top: 515px;
+  top: 509px;
   right: 55px;
 }
 @font-face {
@@ -47,7 +47,7 @@ footer {
 .fuenteLetra1 {
   position: absolute;
   font-family: UniversLTStd-Bold, Arial;
-  top: 0px;
+  top: 7px;
   left: 70px;
   font-size: 30px;
   color: #ff1493;
@@ -55,7 +55,7 @@ footer {
 .fuenteLetra2 {
   position: absolute;
   font-family: UniversLTStd-Bold, Arial;
-  top: 40px;
+  top: 46px;
   left: 70px;
   font-size: 20px;
   color: #fff;
@@ -63,7 +63,7 @@ footer {
 .fuenteLetra3 {
   position: absolute;
   font-family: UniversLTStd-Bold, Arial;
-  top: 105px;
+  top: 114px;
   left: 70px;
   font-size: 16px;
   font-weight: bold;
@@ -73,7 +73,7 @@ footer {
 .fuenteLetra4 {
   position: absolute;
   font-family: Univers-LT-47-Condensed-Light;
-  top: 395px;
+  top: 389px;
   left: 54px;
   font-size: 15px;
   width: 910px;
@@ -82,7 +82,7 @@ footer {
 .fuenteLetra5 {
   position: absolute;
   font-family: Univers-LT-47-Condensed-Light;
-  top: 438px;
+  top: 430px;
   left: 54px;
   font-size: 15px;
   width: 910px;
@@ -91,7 +91,7 @@ footer {
 .fuenteLetra6 {
   position: absolute;
   font-family: Univers-LT-45-Light;
-  top: 566px;
+  top: 556px;
   left: 80px;
   font-size: 8px;
   color: #131366;
