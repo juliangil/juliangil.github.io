@@ -1,4 +1,5 @@
 body {
+  background: url("../img/fondo.png") no-repeat;
   margin: 0;
   width: 1024px;
   height: 768px;
